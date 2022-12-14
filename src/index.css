@@ -12,7 +12,7 @@
   --color-darker: #464646;
   --color-light: #dbd8d6;
   --color-lighter: #f5f0ec;
-  --color-secondary: #ffd700;
+  --color-secondary: #2a534bb9;
 }
 
 * {
@@ -129,9 +129,8 @@ ul {
   position: relative;
 }
 
-.antique,
-.collectibles {
-  color: var(--color-light);
+.antique {
+  color: var(--color-secondary);
 }
 
 .features {
