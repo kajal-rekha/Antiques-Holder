@@ -106,10 +106,6 @@ ul {
   color: var(--color-darker);
 }
 
-.antiques2 {
-  color: var(--color-primary);
-}
-
 .min-h-100vh {
   min-height: 100vh;
 }
@@ -127,10 +123,17 @@ ul {
   justify-content: center;
   align-items: center;
   position: relative;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: var(--color-darker);
 }
 
+.overlay {
+  color: var(--color-darker);
+}
 .antique {
-  color: var(--color-secondary);
+  color: var(--color-light);
 }
 
 .features {
