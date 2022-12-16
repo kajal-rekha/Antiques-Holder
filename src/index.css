@@ -126,16 +126,14 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: var(--color-darker);
 }
 
-.overlay {
-  color: var(--color-darker);
-}
 .antique {
   color: var(--color-light);
 }
-
+.antiques2 {
+  color: var(--color-primary);
+}
 .features {
   display: grid;
   grid-template-columns: 35% auto;

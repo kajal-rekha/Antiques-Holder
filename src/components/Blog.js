@@ -1,7 +1,9 @@
 const Blog = () => {
   return (
     <section className="blog-sec wrapper">
-      <h2 className="section-title">Antiques Collectibles</h2>
+      <h2 className="section-title " style={{ textAlign: "center" }}>
+        Antique trend blog
+      </h2>
       <div className="blog-section">
         <div className="blog">
           <div className="blog-img">

@@ -29,7 +29,7 @@ const images = [
 
 const Gallery = () => {
   return (
-    <section className="gallery wrapper">
+    <section className="gallery ">
       <h2 className="section-title">Gallery</h2>
       <div className="gallery-wrapper">
         {images.map((image) => (

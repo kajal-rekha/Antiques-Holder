@@ -31,10 +31,10 @@ const Featured = () => {
         </div>
         <div className="feature-r">
           <span className="feature-text" style={{ color: "#d53f41" }}>
-            ANTIQUE CAST IRON
+            SET AND BEAUTIFUL ANTIQUE ITEMS
           </span>
           <img
-            src="https://a.1stdibscdn.com/antique-cast-iron-amish-man-and-woman-couple-bookends-a-pair-for-sale/f_9341/f_298727121659712936141/f_29872712_1659712936684_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1318"
+            src="https://cdn.shopify.com/s/files/1/0012/2359/0006/files/Antiques_Dealers_Indian_Antiques_Dealers_Online_Indian_Antiques_Online_Antique_Dealers_Online_online_flea_market_india_-800x600_2048x2048.jpg?v=1547401852"
             alt="ANTIQUE CAST IRON"
           />
           <span

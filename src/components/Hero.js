@@ -1,10 +1,9 @@
 const Hero = () => {
   return (
     <section
-      className="hero wrapper overlay"
+      className="hero background-image"
       style={{
-        backgroundImage:
-          "url(https://cdn.shopify.com/s/files/1/0061/4924/2969/files/antique-furniture-table-banner_1800x800.jpg?v=1613641840)",
+        backgroundImage: "url(https://i.ibb.co/Bnz6G77/telephone.png)",
       }}
     >
       <h1 className="antique">
