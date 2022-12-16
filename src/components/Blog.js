@@ -14,9 +14,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">Antique Coal Stoves and Restorations</h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -28,9 +25,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">Arrakasta Crafts Antique vintage </h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -42,9 +36,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">A classic cars of 20th century</h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -56,9 +47,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">1800s handbag </h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -70,9 +58,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">The Military Tank</h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -84,9 +69,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">Hyosoku oil lantern</h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -95,9 +77,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">Most notable Gun for Remington</h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
         <div className="blog">
@@ -109,9 +88,6 @@ const Blog = () => {
           </div>
           <div className="blog-overlay">
             <h2 className="blog-title">Antique silver pocket watch</h2>
-            <a href="/" className="blog-btn">
-              View More
-            </a>
           </div>
         </div>
       </div>
