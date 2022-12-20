@@ -392,7 +392,11 @@ ul {
   .logo {
     order: -1;
   }
-
+  .links {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
   .features {
     grid-template-columns: 1fr;
     gap: 5rem;
@@ -400,6 +404,15 @@ ul {
 
   .gallery-item-img {
     width: 100%;
-    height: 100vh;
+    height: 55vh;
+  }
+
+  .gallery-item-category {
+    left: -6%;
+    bottom: -7%;
+    text-transform: uppercase;
+    color: var(--color-lighter);
+    letter-spacing: 10px;
+    z-index: 1;
   }
 }
