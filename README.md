@@ -8,9 +8,9 @@ Antiques Holder is a platform that allows users to view and keep track of antiqu
 ## Project Features
 - Display of antique items in an attractive and organized manner.
 - User-friendly interface that makes it easy to view and manage antique items.
-- Option to add, edit and delete antique items from the collection.
-- Ability to search and filter items based on various criteria.
-- Option to share antique items with others.
+
+
+
 
 ## Tools Used
 - React: A JavaScript library for building user interfaces.
